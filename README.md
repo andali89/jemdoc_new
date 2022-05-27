@@ -1,4 +1,4 @@
-= A modified version of jemdoc+MathJax
+A modified version of jemdoc+MathJax
 See http://jemdoc.jaboc.net/ for more information and the detailed usage of jemdoc.
 
 The following features are added:
