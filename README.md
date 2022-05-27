@@ -7,4 +7,3 @@ The following features are added: abcc
 - [link  \+\[attribute\]\:\[setting\] text] adds a href and an sets an attribute.
 - [\+\[attribute\]\:\[setting\] text +top] add a 'back to top' button after text. This property is only avaiable in a header.
 - abc
-- kldjlskaf
